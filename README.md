@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... working with Valuable People
 - 🌱 I’m currently learning ... django, react.js
 - 💞️ I’m looking to collaborate on ... every website
-- 📫 How to reach me ... yunseong3736@gmail.com or dennis3736@naver.com
+- 📫 How to reach me ... vphelp@naver.com
 
 <!---
 yunseong3736/yunseong3736 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
