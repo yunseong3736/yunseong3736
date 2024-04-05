@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dennis Cho
 - 👀 I’m interested in ... working with Valuable People
-- 🌱 I’m currently learning ... django, react.js
+- 🌱 I’m currently learning ... Hyper - V Computing
 - 💞️ I’m looking to collaborate on ... every website
-- 📫 How to reach me ... vphelp@naver.com
+- 📫 How to reach me ... info@vpeople.net
 
 <!---
 yunseong3736/yunseong3736 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
